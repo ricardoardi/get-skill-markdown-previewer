@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/get-skill-markdown-previewer/static/css/main.05a5e455.css",
+    "main.js": "/get-skill-markdown-previewer/static/js/main.3b21aa35.js",
+    "static/js/787.642fd8d8.chunk.js": "/get-skill-markdown-previewer/static/js/787.642fd8d8.chunk.js",
+    "index.html": "/get-skill-markdown-previewer/index.html",
+    "main.05a5e455.css.map": "/get-skill-markdown-previewer/static/css/main.05a5e455.css.map",
+    "main.3b21aa35.js.map": "/get-skill-markdown-previewer/static/js/main.3b21aa35.js.map",
+    "787.642fd8d8.chunk.js.map": "/get-skill-markdown-previewer/static/js/787.642fd8d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a5e455.css",
+    "static/js/main.3b21aa35.js"
+  ]
+}
